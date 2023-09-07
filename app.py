@@ -12,7 +12,7 @@ st.title("Filter your Amsterdam Airbnb Listings!")
 st.write(
     """This app is based on this blog [here](https://blog.streamlit.io/auto-generate-a-dataframe-filtering-ui-in-streamlit-with-filter_dataframe/). 
     It is created to help you filtering your preferences for choosing your Airbnb in Amsterdam.
-    Can you think of ways to extend it with visuals?
+    Click the box "Add filters" below and choose the options that fit best with your requirement for an Airbnb room.
     """
 )
 
