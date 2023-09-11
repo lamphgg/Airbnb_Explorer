@@ -1,6 +1,6 @@
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://lamphgg-airbnb-filter-app-k576y8.streamlit.app/)
 # Amsterdam Airbnb Listings and Filter
-An app showing all Airbnb listings in Amsterdam for toursists to filter your preferences. 
+An app showing all Airbnb listings in Amsterdam for tourists to filter your preferences. 
 There is a total of 27 filtering options based on preferences on price, rating, room_type, etc.
 
 
